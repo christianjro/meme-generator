@@ -1,6 +1,6 @@
 {
-  "homepage": "http://christianjro.github.io/react-deploy",
-  "name": "react-deploy",
+  "homepage": "http://christianjro.github.io/meme-generator",
+  "name": "meme-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
